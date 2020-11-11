@@ -1,0 +1,10 @@
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\RegistroEstudiantes.exe.config
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\RegistroEstudiantes.exe
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\RegistroEstudiantes.pdb
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.csprojAssemblyReference.cache
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.Form1.resources
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.Properties.Resources.resources
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.csproj.GenerateResource.cache
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.exe
+C:\Users\gaston\source\repos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\RegistroEstudiantes.pdb
